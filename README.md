@@ -3,6 +3,8 @@
 ## Overview
 In any company, measuring business performance is crucial for tracking, monitoring, and evaluating the success or failure of various business processes. Therefore, this project aims to analyze the business performance of an eCommerce company, considering several business metrics: customer growth, product quality, and payment types.
 
+[Documentation Details](https://github.com/Theofilusarifin/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/documentation.pdf)
+
 ## Entity-Relationship Diagram
 ![ERD](ERD.png)
 
